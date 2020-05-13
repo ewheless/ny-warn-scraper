@@ -8,7 +8,7 @@ bs4 = "*"
 pandas = "*"
 requests = "*"
 jupyterlab = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
-
